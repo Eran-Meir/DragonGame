@@ -18,14 +18,11 @@ This system is implemented with using MVC design pattern
 This class is an abstract class that contains the basics of every Enemy.
 - #### ```Skeleton.cs```
   - This class inherits from Enemy and implements the Skeleton behaviour
-  - It also has an **extremely basic** level system, which according to that things will be decided for the skeleton
+  - It also has an **extremely basic** level system, which according to that things like stats will be set for the skeleton (Stronger Player -> Stronger Enemies)
   - It also has a health system that can interact with the player if the skeleton was hit.
 
 ### Enemy Health System
 This system is implemented with using MVC design pattern
-- ```EnemyHealthSystemModel.cs```
-
-
-
-
-
+- ```EnemyHealthSystemModel.cs``` the model of the enemy health system
+- ```EnemyHealthSystemView.cs``` the view component that presents the UI above the enemy
+- ```EnemyHealthSystemController.cs``` the enemy health system controller, controls the enemy health system view and the enemy health system model
