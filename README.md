@@ -1,6 +1,8 @@
 # DragonGame
 # Written by Eran Meir
 
+![alt text](https://github.com/Eran-Meir/DragonGame/blob/main/Dragon%20Demo.png)
+
 This game is currently under development and I code this in Unity & Visual Studio during my free time.
 Its only purpose is just for fun.
 
