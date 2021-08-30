@@ -6,7 +6,7 @@
 This game is currently under development and I code this in Unity & Visual Studio during my free time.
 Its only purpose is just for fun.
 
-Here I have added only some of what I wrote and added to my game, I did not include prefarbs and scripts of other people, as it's not my right to do so.
+Here I have added only some of what I wrote and added to my game, I did not include prefarbs and scripts of other people.
 
 ## Player
 ### Player Level System
